@@ -25,7 +25,6 @@
 # COLUMN koi_ror:        Planet-Star Radius Ratio
 # COLUMN koi_srho:       Fitted Stellar Density [g/cm**3]
 # COLUMN koi_fittype:    Planetary Fit Type
-	
 # COLUMN koi_prad:       Planetary Radius [Earth radii]
 # COLUMN koi_sma:        Orbit Semi-Major Axis [au]
 # COLUMN koi_incl:       Inclination [deg]
