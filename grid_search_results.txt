@@ -1,0 +1,120 @@
+Proportion of testing size: 0.4
+Logistic Regression:
+Evaluation Metrics:
+Accuracy: 0.9016086793864572
+Recall: 0.9425517702070808
+F1 Score: 0.9147487844408428
+Precision: 0.8885390428211587
+
+Confusion Matrix:
+ TN,  FP, FN, TP
+[ 999  177   86 1411]
+
+
+K nearest neighbors:
+Evaluation Metrics:
+Accuracy: 0.799850355405911
+Recall: 0.8891115564462257
+F1 Score: 0.8326556146387237
+Precision: 0.7829411764705883
+
+Confusion Matrix:
+ TN,  FP, FN, TP
+[ 807  369  166 1331]
+
+
+Decision tree:
+Evaluation Metrics:
+Accuracy: 0.8993640104751216
+Recall: 0.9144956579826319
+F1 Score: 0.9105420685068175
+Precision: 0.9066225165562913
+
+Confusion Matrix:
+ TN,  FP, FN, TP
+[1035  141  128 1369]
+
+
+Random forest:
+Evaluation Metrics:
+Accuracy: 0.934156378600823
+Recall: 0.948563794255177
+F1 Score: 0.9416445623342174
+Precision: 0.934825543120474
+
+Confusion Matrix:
+ TN,  FP, FN, TP
+[1077   99   77 1420]
+
+
+Grid Search:
+Fitting 5 folds for each of 3800 candidates, totalling 19000 fits
+Evaluation Metrics:
+Accuracy: 0.9337822671156004
+Recall: 0.9552438209752839
+F1 Score: 0.9417188014487983
+Precision: 0.9285714285714286
+
+Confusion Matrix:
+ TN,  FP, FN, TP
+[1066  110   67 1430]
+Proportion of testing size: 0.2
+Logistic Regression:
+Evaluation Metrics:
+Accuracy: 0.9027673896783844
+Recall: 0.9281914893617021
+F1 Score: 0.9148099606815203
+Precision: 0.9018087855297158
+
+Confusion Matrix:
+ TN,  FP, FN, TP
+[509  76  54 698]
+
+
+K nearest neighbors:
+Evaluation Metrics:
+Accuracy: 0.8025430067314884
+Recall: 0.9002659574468085
+F1 Score: 0.8368355995055624
+Precision: 0.7817551963048499
+
+Confusion Matrix:
+ TN,  FP, FN, TP
+[396 189  75 677]
+
+
+Decision tree:
+Evaluation Metrics:
+Accuracy: 0.9050112191473448
+Recall: 0.9122340425531915
+F1 Score: 0.915276851234156
+Precision: 0.9183400267737617
+
+Confusion Matrix:
+ TN,  FP, FN, TP
+[524  61  66 686]
+
+
+Random forest:
+Evaluation Metrics:
+Accuracy: 0.9409124906507106
+Recall: 0.9468085106382979
+F1 Score: 0.9474384564204923
+Precision: 0.948069241011984
+
+Confusion Matrix:
+ TN,  FP, FN, TP
+[546  39  40 712]
+
+
+Grid Search:
+Fitting 5 folds for each of 3800 candidates, totalling 19000 fits
+Evaluation Metrics:
+Accuracy: 0.9356768885564697
+Recall: 0.9521276595744681
+F1 Score: 0.9433465085638999
+Precision: 0.9347258485639687
+
+Confusion Matrix:
+ TN,  FP, FN, TP
+[535  50  36 716]
