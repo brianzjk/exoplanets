@@ -21,7 +21,6 @@
 # COLUMN koi_duration:   Transit Duration [hrs]
 # COLUMN koi_ingress:    Ingress Duration [hrs]
 # COLUMN koi_depth:      Transit Depth [ppm]
-	ratio of area of planet to area of star
 # COLUMN koi_ror:        Planet-Star Radius Ratio
 # COLUMN koi_srho:       Fitted Stellar Density [g/cm**3]
 # COLUMN koi_fittype:    Planetary Fit Type
