@@ -84,7 +84,7 @@ lEsCjA5rb2lfZGlrY29fbWRlY5RLAowOa29pX2Rpa2NvX21za3mUSwJ1jAVtZXRhc5R9lCiMCmtl
 cG9pX25hbWWUSwOMC2tlcGxlcl9uYW1llEsDjAtrb2lfY29tbWVudJRLA4wMa29pX3F1YXJ0ZXJz
 lEsDjBBrb2lfZGF0YWxpbmtfZHZylEsDjBBrb2lfZGF0YWxpbmtfZHZzlEsDdXViYXUu
 </properties>
-		<properties node_id="3" format="literal">{'auto_commit': True, 'color_by_class': True, 'controlAreaVisible': True, 'dist_color_RGB': (220, 220, 220, 255), 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x02\xcb\x00\x00\x00\x96\x00\x00\x07x\x00\x00\x02\xf8\x00\x00\x02\xcc\x00\x00\x00\xbc\x00\x00\x07w\x00\x00\x02\xf7\x00\x00\x00\x00\x00\x00\x00\x00\x07\x80\x00\x00\x02\xcc\x00\x00\x00\xbc\x00\x00\x07w\x00\x00\x02\xf7', 'select_rows': True, 'selected_cols': [], 'selected_rows': [], 'show_attribute_labels': True, 'show_distributions': False, '__version__': 2}</properties>
+		<properties node_id="3" format="literal">{'auto_commit': True, 'color_by_class': True, 'controlAreaVisible': True, 'dist_color_RGB': (220, 220, 220, 255), 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\xff\xff\xfe\xcb\x00\x00\x02C\x00\x00\x03\xc8\x00\x00\x04\x06\xff\xff\xfe\xd4\x00\x00\x02i\x00\x00\x03\xbf\x00\x00\x03\xfd\x00\x00\x00\x00\x00\x00\x00\x00\x07\x80\xff\xff\xfe\xd4\x00\x00\x02i\x00\x00\x03\xbf\x00\x00\x03\xfd', 'select_rows': True, 'selected_cols': [], 'selected_rows': [], 'show_attribute_labels': True, 'show_distributions': False, '__version__': 2}</properties>
 	</node_properties>
 	<session_state>
 		<window_groups />
